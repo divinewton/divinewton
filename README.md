@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hello, I'm Divi</h1>
-  <h3>UI/UX Designer • CS Student</h3>
+  <h3>Product & UI/UX</h3>
+  <h4>Design · Code · Strategy</h4>
   <img src="https://www.divinewton.com/images/promo-img.png" width="80%"/>
   <h4>Computer Science, Graphic Design, and Honors Program Student at Chapman University</h4>
 </div>
