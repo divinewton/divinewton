@@ -3,7 +3,7 @@
   <h3>Product & UI/UX</h3>
   <h4>Design · Code · Strategy</h4>
   <img src="https://www.divinewton.com/images/promo-img.png" width="80%"/>
-  <h4>Computer Science, Graphic Design, and Honors Program Student at Chapman University</h4>
+  <h4>Product, Design & Development | Undergraduate Research Assistant | CS & Graphic Design at Chapman University</h4>
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
